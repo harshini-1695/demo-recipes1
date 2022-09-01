@@ -1,0 +1,38 @@
+{"recipes":[   
+    {
+        "name": "Roasted Asparagus",
+        "id":1,
+        "ingredients":    
+          " asparagus-1 lb, olive oil-1 1/2 tbsp, kosher salt-1/2 tsp",
+        "steps": 
+            "Preheat oven to 425°F.\n            Cut off the woody bottom part of the asparagus spears and discard.\n            With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\n            Place asparagus on foil-lined baking sheet and drizzle with olive oil.\n            Sprinkle with salt.\n            With your hands, roll the asparagus around until they are evenly coated with oil and salt.\n            Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.\n            They should be tender when pierced with the tip of a knife.\n            The tips of the spears will get very brown but watch them to prevent burning.\n            They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal.",
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "createdAt": "2022,8,08,17:30",  
+        "category": "breakfast",
+        "ratings": "4"
+    },
+    {
+        "name": "Curried Lentils and Rice",
+        "id":2,
+        "ingredients": 
+               "beef broth-1 quart, dried green lentils-1 cup, basmati rice-1/2 cup, curry powder-1 tsp, salt-1 tsp", 
+        "steps": 
+            "Bring broth to a low boil.\n  Add curry powder and salt.\n Cook lentils for 20 minutes.\n Add rice and simmer for 20 minutes.\n Enjoy!",        
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PxL2dnyvgMfyrc4B5ry-kQ0XvrfvG1Z_sWDcYh7SPFhMSC5VH8yYeI7x9Sm4Lclqarw&usqp=CAU",
+        "createdAt": "2022,8,09,17:30",
+        "category": "lunch",
+        "ratings": "4"
+    },
+    {
+        "name": "Mic's Yorkshire Puds",
+        "id":3,
+        "ingredients":             
+                "plain flour-200g, eggs-3, milk-300mlvegetable oil-3 tbsp",                
+        "steps": 
+            "Put the flour and some seasoning into a large bowl.\n Stir in eggs, one at a time.\n Whisk in milk until you have a smooth batter.\n Chill in the fridge for at least 30 minutes.\n Heat oven to 220C/gas mark 7.\n Pour the oil into the holes of a 8-hole muffin tin.\n Heat tin in the oven for 5 minutes.\n Ladle the batter mix into the tin.\n Bake for 30 minutes until well browned and risen.",       
+        "imageURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "createdAt": "2022,8,10,17:30",
+        "category": "dinner",
+        "ratings": "5"
+    }
+]}
